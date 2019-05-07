@@ -16,5 +16,5 @@ for i in range (2,1001):
 			isPrime = False
 			break
 	if (isPrime == True):
-		print (i, end=", ")
+		print (i, end=", ")	
 	
